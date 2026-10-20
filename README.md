@@ -7,10 +7,10 @@
 <br clear="left">
 
 <p>
-  <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/v/edgartools.svg" alt="PyPI - Version"></a>
-  <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/pyversions/edgartools.svg" alt="Python versions"></a>
-  <a href="https://github.com/dgunning/edgartools/actions"><img src="https://img.shields.io/github/actions/workflow/status/dgunning/edgartools/python-hatch-workflow.yml" alt="Build status"></a>
-  <a href="https://pepy.tech/project/edgartools"><img alt="Monthly downloads" src="https://static.pepy.tech/badge/edgartools/month"></a>
+  <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/v/edgartools.svg?style=flat&labelColor=000000&color=66023C" alt="PyPI - Version"></a>
+  <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/pyversions/edgartools.svg?style=flat&labelColor=000000&color=66023C" alt="Python versions"></a>
+  <a href="https://github.com/dgunning/edgartools/actions"><img src="https://img.shields.io/github/actions/workflow/status/dgunning/edgartools/python-hatch-workflow.yml?style=flat&labelColor=000000" alt="Build status"></a>
+  <a href="https://pepy.tech/project/edgartools"><img alt="Monthly downloads" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fstatic.pepy.tech%2Fbadge%2Fedgartools%2Fmonth&query=normalize-space%28%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D%29&label=downloads%2Fmonth&style=flat&labelColor=000000&color=66023C"></a>
 </p>
 
 **EdgarTools** is a Python library for SEC EDGAR filings as structured data: financial statements, insider trades, fund holdings, proxy statements and dozens of other filing types, through one consistent Python API. SEC publishes every filing since 1994 for free, and almost none of it is ready to use; EdgarTools turns a filing into a typed Python object. Free and open source, MIT-licensed.
@@ -221,11 +221,11 @@ The SEC changes filing formats and ships a new XBRL taxonomy every year. Sponsor
 
 <p align="center">
   <a href="https://github.com/sponsors/dgunning" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA" alt="Sponsor on GitHub" height="44">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=E5E4E2&labelColor=000000&color=66023C" alt="Sponsor on GitHub" height="44">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/edgartools" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" height="44">
+    <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=E5E4E2&labelColor=000000&color=66023C" alt="Buy Me A Coffee" height="44">
   </a>
 </p>
 
