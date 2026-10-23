@@ -6,7 +6,7 @@
 
 <br clear="left">
 
-<p>
+<p align="center">
   <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/v/edgartools.svg?style=flat&labelColor=000000&color=66023C" alt="PyPI - Version"></a>
   <a href="https://pypi.org/project/edgartools"><img src="https://img.shields.io/pypi/pyversions/edgartools.svg?style=flat&labelColor=000000&color=66023C" alt="Python versions"></a>
   <a href="https://github.com/dgunning/edgartools/actions"><img src="https://img.shields.io/github/actions/workflow/status/dgunning/edgartools/python-hatch-workflow.yml?style=flat&labelColor=000000" alt="Build status"></a>
